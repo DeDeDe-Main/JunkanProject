@@ -1,4 +1,4 @@
-# JunkanProject
+# Ser Junkan
 
 - Adds the marketable scrap-boi himself from Enter the Gungeon as a legendary.
 - Item displays on Paladin, Enforcer, and Starstorm characters!
